@@ -1,4 +1,4 @@
 baseURL = "https://meganii-gohugo-simple-site.netlify.app/"
 languageCode = "ja"
 title = "Hugo Simple Site"
-theme = "quite-simple"
+theme = "ananke"
